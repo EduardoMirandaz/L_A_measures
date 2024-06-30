@@ -1,0 +1,43 @@
+Grades
+
+
+Tamanhos comuns: 1, 1.5, 2, 2.10, 2.20
+
+ --- Materiais 
+
+
+Barra chata 1" largura x 3/16" expessura (Comprimento é de 6 metros por lote)
+Barra redonda 3/16" diâmetro.
+Barra redonda 8/16" diâmetro.
+
+
+
+
+
+----- Bordas e hastes horizontais
+
+
+
+	Distancia entre as hastes horizontais
+A cada 50cm é preciso ter mais uma haste no eixo horizontal.
+
+O tamanho máximo dos vãos é 60 enquanto o tamanho ideal é 50. O tamanho mínimo seria 30, para uma grade de 60 por exemplo. 
+Grades com menos de 60 não existem.
+
+Quando mais de um tamanho válido for encontrado para a proporção, o programa deve selecionar o que consome menos material.
+
+
+----- Hastes verticais internas
+
+PARA: Barra redonda 3/8" diâmetro.
+
+Distanciamento a cada 11 cm com margem de erro possível de 0.5
+
+
+
+
+
+
+
+
+

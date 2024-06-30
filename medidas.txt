@@ -1,0 +1,5 @@
+Largura ->257.42cm
+quantidade de vãos(23)  *  tamanho dos vãos (10.24) = 235.51
+quantidade de hastes(22)  *  expessura das hastes verticais (0.95) = 20.96
+expessura_lado_esquerdo_quadro (0.48) + expessura_lado_direito_quadro (0.48) = 0.9525
+total:257.42
